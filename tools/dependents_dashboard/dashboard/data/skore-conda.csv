@@ -1,0 +1,2 @@
+name,version,date,downloads,ci_share,constraint,extra_only,kind,min_allowed,max_allowed,allows_next_minor,allows_next_major
+skore-cli,0.5.0,2026-10-09,,,any,0,none,0.1.0,0.29.1,1,1

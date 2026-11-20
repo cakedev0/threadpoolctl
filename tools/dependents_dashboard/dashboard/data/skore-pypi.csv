@@ -1,0 +1,6 @@
+name,version,date,downloads,ci_share,constraint,extra_only,kind,min_allowed,max_allowed,allows_next_minor,allows_next_major
+skore-hub-project,0.0.23,2026-05-06,998,0.00,any,1,none,0.1.0,0.29.1,1,1
+skore-local-project,0.0.8,2026-04-30,984,0.09,any,1,none,0.1.0,0.29.1,1,1
+skore-cli,0.5.0,2026-10-09,585,0.00,>=0.27,0,lower,0.27.0,0.29.1,1,1
+skore-mcp,0.1.1,2026-04-11,286,0.00,>=0.15,0,lower,0.15.0,0.29.1,1,1
+skore-mlflow-project,0.0.5,2026-04-20,228,0.00,>=0.12,1,lower,0.12.0,0.29.1,1,1

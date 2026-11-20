@@ -1,0 +1,9 @@
+name,version,date,downloads,ci_share,constraint,extra_only,kind,min_allowed,max_allowed,allows_next_minor,allows_next_major
+adaptive,1.5.2,2026-06-11,,,>=2.9,0,lower,2.9.0,3.7.0,1,1
+adaptive-scheduler,2.17.2,2026-06-13,,,any,0,none,0.1.0,3.7.0,1,1
+autode,1.4.6,2026-11-16,,,any,0,none,0.1.0,3.7.0,1,1
+coffea,2026.11.0,2026-11-11,,,>=3.5.6,0,lower,3.5.6,3.7.0,1,1
+mattspy,0.82,2025-08-26,,,any,0,none,0.1.0,3.7.0,1,1
+mednet,2.1.0,2026-07-08,,,any,0,none,0.1.0,3.7.0,1,1
+pytask-parallel,0.5.5,2026-08-23,,,any,0,none,0.1.0,3.7.0,1,1
+solarforecastarbiter,1.0.13,2022-03-30,,,any,0,none,0.1.0,3.7.0,1,1
